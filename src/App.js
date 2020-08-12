@@ -74,7 +74,7 @@ class App extends Component {
              
             </h1> 
             <h3> 
-              File Upload using React! 
+              File Upload using React Modified! 
             </h3> 
             <div> 
                 <input type="file" onChange={this.onFileChange} /> 
